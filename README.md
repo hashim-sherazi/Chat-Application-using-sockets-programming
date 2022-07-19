@@ -1,0 +1,2 @@
+# Chat-Application-using-sockets-programming
+In this project, I have developed an android application that enables two users to send and receive text via WiFi through socket programming. I have implemented this project on android phone. The language used in developing android apps is Java. All the back end functions and the socket programming is implemented in Java. The front end is implemented using XML and both the back end and front end are connected together in the Java program. I have used the Android Studio IDE to program the app.
